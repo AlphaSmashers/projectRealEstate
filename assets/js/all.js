@@ -54,4 +54,4 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
     $("#myInput").trigger("focus");
   });
 }]);
-//# sourceMappingURL=all.js.map
+

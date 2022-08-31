@@ -1,5 +1,5 @@
 jQuery(document).ready(function($){
-	//update these values if you change these breakpoints in the style.css file (or _layout.scss if you use SASS)
+
 	var MqM= 768,
 		MqL = 1024;
 
@@ -10,7 +10,7 @@ jQuery(document).ready(function($){
 		faqsCategories = faqsCategoriesContainer.find('a'),
 		closeFaqsContainer = $('.cd-close-panel');
 	
-	//select a faq section 
+
 	faqsCategories.on('click', function(event){
 		event.preventDefault();
 		var selectedHref = $(this).attr('href'),
@@ -24,7 +24,7 @@ jQuery(document).ready(function($){
 		}
 	});
 
-	//close faq lateral panel - mobile only
+
 	$('body').bind('click touchstart', function(event){
 		if( $(event.target).is('body.cd-overlay') || $(event.target).is('.cd-close-panel')) { 
 			closePanel(event);
@@ -34,13 +34,13 @@ jQuery(document).ready(function($){
 		closePanel(event);
 	});
 
-	//show faq content clicking on faqTrigger
+
 	faqTrigger.on('click', function(event){
 		event.preventDefault();
 		$(this).next('.cd-faq-content').slideToggle(200).end().parent('li').toggleClass('content-visible');
 	});
 
-	//update category sidebar while scrolling
+
 	$(window).on('scroll', function(){
 		if ( $(window).width() > MqL ) {
 			(!window.requestAnimationFrame) ? updateCategory() : window.requestAnimationFrame(updateCategory); 
