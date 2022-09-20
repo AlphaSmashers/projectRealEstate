@@ -1,6 +1,4 @@
 # projectRealEstate
-
-Future Ready Talent Virtual Internship Project
 This is the project created for Microsoft Future Ready Talent Virtual Internship Program
 
 Industry Name
