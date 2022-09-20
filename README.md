@@ -22,7 +22,7 @@ In the present-day market, It is typically difficult finding good real estate pr
 Static Web Apps, Web Apps
 
 
-## azure link 
+## Azure link 
 https://salmon-river-09fd88a10.1.azurestaticapps.net/
 
 ## GitHub Link 
