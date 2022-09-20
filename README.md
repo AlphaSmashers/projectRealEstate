@@ -16,9 +16,11 @@ In the present-day market, It is typically difficult finding good real estate pr
 ## Primary Azure Technologies
 Static Web Apps, Web Apps
 
-## azure link https://salmon-river-09fd88a10.1.azurestaticapps.net/
+## azure link 
+https://salmon-river-09fd88a10.1.azurestaticapps.net/
 
-## GitHub Link https://alphasmashers.github.io/projectRealEstate/
+## GitHub Link 
+https://alphasmashers.github.io/projectRealEstate/
 
 ## Snapshot of Website
 Home Page
