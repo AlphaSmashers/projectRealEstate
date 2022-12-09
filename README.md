@@ -48,6 +48,6 @@ Contact Us Page
 
 
 
-Azure Static Web App : MyDentalBuddy
+Azure Static Web App : ProjectRealEstate
 
 <img width="1440" alt="Azure Static Web App" src="https://user-images.githubusercontent.com/96766945/191185704-7af9e8b4-442c-474d-9bb2-de2ea1feff7d.png">
